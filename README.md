@@ -4,6 +4,14 @@ TaskManagerAgent is a Python-based task management assistant designed to help us
 
 ---
 
+### Demo Video
+<video controls>
+    <source src="agent-demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+---
+
 ## Table of Contents
 - [Features](#features)
 - [Setup](#setup)
@@ -148,3 +156,4 @@ taskManagerAgent/
 ## Author
 
 Created by [dhruv-0707](https://github.com/dhruv-0707). Feel free to reach out for feedback or collaboration opportunities!
+
